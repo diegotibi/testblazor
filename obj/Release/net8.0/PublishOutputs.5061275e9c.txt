@@ -1,0 +1,12 @@
+/Users/ceres/Desktop/BlazorApp/publish/BlazorApp
+/Users/ceres/Desktop/BlazorApp/publish/appsettings.Development.json
+/Users/ceres/Desktop/BlazorApp/publish/appsettings.json
+/Users/ceres/Desktop/BlazorApp/publish/build/appsettings.Development.json
+/Users/ceres/Desktop/BlazorApp/publish/build/appsettings.json
+/Users/ceres/Desktop/BlazorApp/publish/build/BlazorApp.deps.json
+/Users/ceres/Desktop/BlazorApp/publish/build/BlazorApp.runtimeconfig.json
+/Users/ceres/Desktop/BlazorApp/publish/build/BlazorApp.staticwebassets.runtime.json
+/Users/ceres/Desktop/BlazorApp/publish/BlazorApp.dll
+/Users/ceres/Desktop/BlazorApp/publish/BlazorApp.deps.json
+/Users/ceres/Desktop/BlazorApp/publish/BlazorApp.runtimeconfig.json
+/Users/ceres/Desktop/BlazorApp/publish/BlazorApp.pdb
